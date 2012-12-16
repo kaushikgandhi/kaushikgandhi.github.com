@@ -16,6 +16,9 @@ img {
 	background:url(images/bg_top.png) repeat-x;
 	width:100%;
 }
+.black {
+	color:#000;
+}
 .drbl {
 	color:#06C;
 }
@@ -25,6 +28,11 @@ img {
 .trq {
 	color:#066;
 }
+.cpy {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
 article {
 	padding:25px 0 0 0;
 }
