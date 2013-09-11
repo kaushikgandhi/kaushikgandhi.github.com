@@ -36,7 +36,7 @@
 	<script type="text/javascript">
 	setInterval(function(){
 		//console.log('hi');
-		var effect=Math.floor(Math.random() * 11) + 1;
+		var effect=Math.floor(Math.random() * 3) + 1;
     switch(effect){
           case 1:
           initSlider('blinds');
@@ -52,38 +52,6 @@
           break
           case 4:
           initSlider('fade');
-        //  console.log(effect);
-          break
-           case 5:
-          initSlider('kenburns');
-        //  console.log(effect);
-          break
-           case 6:
-          initSlider('rotate');
-        //  console.log(effect);
-          break
-           case 7:
-          initSlider('cube');
-        //  console.log(effect);
-          break
-          case 8:
-          initSlider('slices');
-        //  console.log(effect);
-          break
-          case 9:
-          initSlider('squares');
-        //  console.log(effect);
-          break
-          case 10:
-          initSlider('stack');
-        //  console.log(effect);
-          break
-          case 11:
-          initSlider('page');
-        //  console.log(effect);
-          break
-          case 12:
-          initSlider('domino');
         //  console.log(effect);
           break
         }
