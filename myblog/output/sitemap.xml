@@ -5,399 +5,403 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://localhost:8000/2012/02/11/getting-ready-for-gsoc-2012/index.html</loc>
+  <loc>http://mekaushik.com/2012/02/11/getting-ready-for-gsoc-2012/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2012/02/11/hello-world/index.html</loc>
+  <loc>http://mekaushik.com/2012/02/11/hello-world/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2012/02/14/some-posts-which-inspire-me/index.html</loc>
+  <loc>http://mekaushik.com/2012/02/14/some-posts-which-inspire-me/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2012/02/16/hands-on-windows-phone-7-apps/index.html</loc>
+  <loc>http://mekaushik.com/2012/02/16/hands-on-windows-phone-7-apps/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2012/02/index.html</loc>
+  <loc>http://mekaushik.com/2012/02/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2012/06/25/starting-with-play-framework/index.html</loc>
+  <loc>http://mekaushik.com/2012/06/25/starting-with-play-framework/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2012/06/25/whats-new-in-play-framework/index.html</loc>
+  <loc>http://mekaushik.com/2012/06/25/whats-new-in-play-framework/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2012/06/27/call-a-java-function-from-a-javascript-function-play-framework/index.html</loc>
+  <loc>http://mekaushik.com/2012/06/27/call-a-java-function-from-a-javascript-function-play-framework/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2012/06/27/set-your-maximum-time-range-of-selection-for-daterangepicker-js/index.html</loc>
+  <loc>http://mekaushik.com/2012/06/27/set-your-maximum-time-range-of-selection-for-daterangepicker-js/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2012/06/index.html</loc>
+  <loc>http://mekaushik.com/2012/06/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2012/index.html</loc>
+  <loc>http://mekaushik.com/2012/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2014/01/index.html</loc>
+  <loc>http://mekaushik.com/2014/01/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/2014/index.html</loc>
+  <loc>http://mekaushik.com/2014/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/about-me/index.html</loc>
+  <loc>http://mekaushik.com/about-me/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/archive.html</loc>
+  <loc>http://mekaushik.com/archive.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/ajax-code-to-call-java-function-from-javascript-function-in-play-framework.html</loc>
+  <loc>http://mekaushik.com/categories/ajax-code-to-call-java-function-from-javascript-function-in-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/ajax-code-to-call-java-function-from-javascript-function-in-play-framework.xml</loc>
+  <loc>http://mekaushik.com/categories/ajax-code-to-call-java-function-from-javascript-function-in-play-framework.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/banglore.html</loc>
+  <loc>http://mekaushik.com/categories/banglore.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/banglore.xml</loc>
+  <loc>http://mekaushik.com/categories/banglore.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/call-a-controller-using-javascript-play-framework.html</loc>
+  <loc>http://mekaushik.com/categories/call-a-controller-using-javascript-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/call-a-controller-using-javascript-play-framework.xml</loc>
+  <loc>http://mekaushik.com/categories/call-a-controller-using-javascript-play-framework.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/call-a-java-function-from-javascript-code-play-framework.html</loc>
+  <loc>http://mekaushik.com/categories/call-a-java-function-from-javascript-code-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/call-a-java-function-from-javascript-code-play-framework.xml</loc>
+  <loc>http://mekaushik.com/categories/call-a-java-function-from-javascript-code-play-framework.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/chennai.html</loc>
+  <loc>http://mekaushik.com/categories/chennai.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/chennai.xml</loc>
+  <loc>http://mekaushik.com/categories/chennai.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/daterangepicker.html</loc>
+  <loc>http://mekaushik.com/categories/daterangepicker.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/daterangepicker.xml</loc>
+  <loc>http://mekaushik.com/categories/daterangepicker.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/django.html</loc>
+  <loc>http://mekaushik.com/categories/django.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/django.xml</loc>
+  <loc>http://mekaushik.com/categories/django.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/edit-date-rangepickerjs.html</loc>
+  <loc>http://mekaushik.com/categories/edit-date-rangepickerjs.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/edit-date-rangepickerjs.xml</loc>
+  <loc>http://mekaushik.com/categories/edit-date-rangepickerjs.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/foss.html</loc>
+  <loc>http://mekaushik.com/categories/foss.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/foss.xml</loc>
+  <loc>http://mekaushik.com/categories/foss.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/gsoc-2012.html</loc>
+  <loc>http://mekaushik.com/categories/gsoc-2012.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/gsoc-2012.xml</loc>
+  <loc>http://mekaushik.com/categories/gsoc-2012.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/gsoc.html</loc>
+  <loc>http://mekaushik.com/categories/gsoc.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/gsoc.xml</loc>
+  <loc>http://mekaushik.com/categories/gsoc.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/how-is-play-framework-better.html</loc>
+  <loc>http://mekaushik.com/categories/how-is-play-framework-better.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/how-is-play-framework-better.xml</loc>
+  <loc>http://mekaushik.com/categories/how-is-play-framework-better.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/index.html</loc>
+  <loc>http://mekaushik.com/categories/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/life.html</loc>
+  <loc>http://mekaushik.com/categories/life.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/life.xml</loc>
+  <loc>http://mekaushik.com/categories/life.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/limit-date-range-selection-of-daterangepicker.html</loc>
+  <loc>http://mekaushik.com/categories/limit-date-range-selection-of-daterangepicker.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/limit-date-range-selection-of-daterangepicker.xml</loc>
+  <loc>http://mekaushik.com/categories/limit-date-range-selection-of-daterangepicker.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/pass-data-between-javascript-and-java-function-play-framework.html</loc>
+  <loc>http://mekaushik.com/categories/pass-data-between-javascript-and-java-function-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/pass-data-between-javascript-and-java-function-play-framework.xml</loc>
+  <loc>http://mekaushik.com/categories/pass-data-between-javascript-and-java-function-play-framework.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/path-of-play-framework.html</loc>
+  <loc>http://mekaushik.com/categories/path-of-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/path-of-play-framework.xml</loc>
+  <loc>http://mekaushik.com/categories/path-of-play-framework.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/play-better-than-django.html</loc>
+  <loc>http://mekaushik.com/categories/play-better-than-django.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/play-better-than-django.xml</loc>
+  <loc>http://mekaushik.com/categories/play-better-than-django.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/play-better-than-ruby-on-rails.html</loc>
+  <loc>http://mekaushik.com/categories/play-better-than-ruby-on-rails.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/play-better-than-ruby-on-rails.xml</loc>
+  <loc>http://mekaushik.com/categories/play-better-than-ruby-on-rails.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/play-framework-path-export.html</loc>
+  <loc>http://mekaushik.com/categories/play-framework-path-export.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/play-framework-path-export.xml</loc>
+  <loc>http://mekaushik.com/categories/play-framework-path-export.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/play-framework-path-settings.html</loc>
+  <loc>http://mekaushik.com/categories/play-framework-path-settings.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/play-framework-path-settings.xml</loc>
+  <loc>http://mekaushik.com/categories/play-framework-path-settings.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/play-framework.html</loc>
+  <loc>http://mekaushik.com/categories/play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/play-framework.xml</loc>
+  <loc>http://mekaushik.com/categories/play-framework.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/set-path-of-play-framework.html</loc>
+  <loc>http://mekaushik.com/categories/set-path-of-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/set-path-of-play-framework.xml</loc>
+  <loc>http://mekaushik.com/categories/set-path-of-play-framework.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/set-range-of-selection-to-daterangepicker.html</loc>
+  <loc>http://mekaushik.com/categories/set-range-of-selection-to-daterangepicker.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/set-range-of-selection-to-daterangepicker.xml</loc>
+  <loc>http://mekaushik.com/categories/set-range-of-selection-to-daterangepicker.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/starting-with-play-framework.html</loc>
+  <loc>http://mekaushik.com/categories/starting-with-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/starting-with-play-framework.xml</loc>
+  <loc>http://mekaushik.com/categories/starting-with-play-framework.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/starting-with-play.html</loc>
+  <loc>http://mekaushik.com/categories/starting-with-play.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/starting-with-play.xml</loc>
+  <loc>http://mekaushik.com/categories/starting-with-play.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/what-new-in-play-framework.html</loc>
+  <loc>http://mekaushik.com/categories/what-new-in-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/what-new-in-play-framework.xml</loc>
+  <loc>http://mekaushik.com/categories/what-new-in-play-framework.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/windows-phone-7-application.html</loc>
+  <loc>http://mekaushik.com/categories/windows-phone-7-application.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/windows-phone-7-application.xml</loc>
+  <loc>http://mekaushik.com/categories/windows-phone-7-application.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/windows-phone7-apps.html</loc>
+  <loc>http://mekaushik.com/categories/windows-phone7-apps.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/windows-phone7-apps.xml</loc>
+  <loc>http://mekaushik.com/categories/windows-phone7-apps.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/es/2014/01/index.html</loc>
+  <loc>http://mekaushik.com/es/2014/01/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/es/2014/index.html</loc>
+  <loc>http://mekaushik.com/es/2014/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/es/archive.html</loc>
+  <loc>http://mekaushik.com/es/archive.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/es/categories/index.html</loc>
+  <loc>http://mekaushik.com/es/categories/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/es/galleries/index.html</loc>
+  <loc>http://mekaushik.com/es/galleries/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/es/galleries/rss.xml</loc>
+  <loc>http://mekaushik.com/es/galleries/rss.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/es/index.html</loc>
+  <loc>http://mekaushik.com/es/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/es/posts/my-new-nikola-website.html</loc>
+  <loc>http://mekaushik.com/es/posts/my-new-nikola-website.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/es/rss.xml</loc>
+  <loc>http://mekaushik.com/es/rss.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/galleries/index.html</loc>
+  <loc>http://mekaushik.com/galleries/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/galleries/rss.xml</loc>
+  <loc>http://mekaushik.com/galleries/rss.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/index.html</loc>
+  <loc>http://mekaushik.com/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/listings/index.html</loc>
+  <loc>http://mekaushik.com/listings/index.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/20120211getting-ready-for-gsoc-2012.html</loc>
+  <loc>http://mekaushik.com/posts/20120211getting-ready-for-gsoc-2012.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/20120211hello-world.html</loc>
+  <loc>http://mekaushik.com/posts/20120211hello-world.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/20120214some-posts-which-inspire-me.html</loc>
+  <loc>http://mekaushik.com/posts/20120214some-posts-which-inspire-me.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/20120216hands-on-windows-phone-7-apps.html</loc>
+  <loc>http://mekaushik.com/posts/20120216hands-on-windows-phone-7-apps.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/20120625starting-with-play-framework.html</loc>
+  <loc>http://mekaushik.com/posts/20120625starting-with-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/20120625whats-new-in-play-framework.html</loc>
+  <loc>http://mekaushik.com/posts/20120625whats-new-in-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/20120627call-a-java-function-from-a-javascript-function-play-framework.html</loc>
+  <loc>http://mekaushik.com/posts/20120627call-a-java-function-from-a-javascript-function-play-framework.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/20120627set-your-maximum-time-range-of-selection-for-daterangepicker-js.html</loc>
+  <loc>http://mekaushik.com/posts/20120627set-your-maximum-time-range-of-selection-for-daterangepicker-js.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/banglore-is-a-new-experience.html</loc>
+  <loc>http://mekaushik.com/posts/banglore-is-a-new-experience.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/banglore-is-new-experience.html</loc>
+  <loc>http://mekaushik.com/posts/banglore-is-new-experience.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/chennai-to-banglore-a-whole-new-experience.html</loc>
+  <loc>http://mekaushik.com/posts/chennai-to-banglore-a-whole-new-experience.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/posts/my-new-nikola-website.html</loc>
+  <loc>http://mekaushik.com/posts/my-new-nikola-website.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/rss.xml</loc>
+  <loc>http://mekaushik.com/rss.xml</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/stories/about-me.html</loc>
+  <loc>http://mekaushik.com/stories/about-me.html</loc>
+  <lastmod>2014-01-09</lastmod>
+ </url>
+ <url>
+  <loc>http://mekaushik.com/tipue_search.html</loc>
   <lastmod>2014-01-09</lastmod>
  </url>
 </urlset>

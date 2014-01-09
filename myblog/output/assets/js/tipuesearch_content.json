@@ -1,0 +1,70 @@
+{
+  "pages": [
+    {
+      "text": "Its been 1 month now since i moved to banglore. \nI thought of sharing my awesome experience in Indias largest IT hub.\nHow i started my journey\nEarlier in 2012 I started working with Reduce Data in chennai.\nThe work was really intresting i got a mentor like Asif Ali, and was really enjoying my work.\nInitially chennai was good with lots of activities going arround with @chennaigeeks.\nBut banglore have always been tempting with its super cool climate and offcourse lots ofactivities \nwith many geek communities in banglore.\n\n\nSomething that i had never experience before: \nI was coming back from my home town @Durgapur in Westbengal(India).\nIt never happened before in train i heard someone explaining about MySql transactions to his wife.\nyou don't find such companinons specially in trains , Atleast i never got similar co-passengers in \nmy way to chennai , Soon i realized its banglore dude, and an intresting journey is about to start.\n\n\n\n\n\nFinally @14th dec,13 I was in banglore.\nSince my arrival in banglore it had been a crazy journey meeting geeks, \nentrepreneurs and attending hackathons.\nSome of my experience are worth mentioning.\n#Waartaa\nIt all started with hacking for  #waartaa an Irc web-client as service . I met @rtnpro.\nhe guided me through on learning node and meteor to get-started with #waartaa. \nExperimented with few new technologies \"NodeJs\" , \"Meteor\" , \"Mongodb\". \n#A bit of scraping work with @Rashmi Ranjan Padhy\nI was quite excited to meet Rashmi ranjan founder of banglore startups and currently trying to launch his new startup http://techchamp.co .With Rashmi, I started with something offbeat to my previous experience . I started on to scrapping reddit.com and Hacker news with beautiful soup [python].\n.Note: Yes offcouse following there robots.txt. \n Disclaimer: Hacker News went down on 6th january 2014 that was not us :p. \n\n#hackathon 31st december geekNight by @hasgeek\"\nSoon 2013 was about to end and in geek style. \nI along with @rtnpro and @sayan_chowdhary went to geeknight organized by @hasgeek.\nSo we went on hacking with our #waartaa project. \n@sayan gave a wonderful demo :", 
+      "tags": "chennai,banglore,life", 
+      "loc": "/posts/chennai-to-banglore-a-whole-new-experience.html", 
+      "title": "Chennai to Banglore a whole new experience"
+    }, 
+    {
+      "text": "Write your post here.", 
+      "tags": "", 
+      "loc": "/posts/my-new-nikola-website.html", 
+      "title": "My new nikola website"
+    }, 
+    {
+      "text": "I wanted to create a date range picker where we i can set maximum dateselection \nrange of 3 months so i edited the Daterangepicker.js :\nlet us first look at the date range picker you can add the beautiful date range \nselector by adding this code \n\nHTML:\ninput type=\"text\"\njQuery:\n$('input').daterangepicker(); \n\n\nnow you have to edit daterangepicker.js :\ni have setted the max date selection range as 3 months you can make it \nto any of your choice here is my code : http://jsfiddle.net/W2YLr/\nwhat i have edited :\ni edited the datepicker option section as :\n\n\nif(rp.find('li.ui-state-active').is('.ui-daterangepicker-allDatesBefore'))\n {\n  var edtemp = new Date(new Date(ed).setMonth(ed.getMonth()-3));    \n  rangeA=fDate(edtemp);   \n startingDate=edtemp;\n  endingDate=ed;                    \n  }\n\n\nyou can find some -3 and +3 codes inside the date picker you can change this values with \nhow many months you need it .\ni also edited the hideRP() function so that now you can get the startdate and enddate \nthrough jquery call of the event onClose \n\n\n$('input').daterangepicker()\n\n{\n\nonClose:function(startdate,enddate)\n\n{\n\nalert(\"start date:\"+startdate+\"end date:\"+enddate);\n\n}\n\n}", 
+      "tags": "daterangepicker,edit date rangepicker.js,limit date range selection of daterangepicker,set range of selection to daterangepicker", 
+      "loc": "/posts/20120627set-your-maximum-time-range-of-selection-for-daterangepicker-js.html", 
+      "title": "set your maximum time range of selection for DateRangePicker.js"
+    }, 
+    {
+      "text": "There are many ways to pass data and acess data from a java code and a javascript \nfunctionwithin play framework.But i was in a condition where i was to exchange \ndata from a javascript to java code and from java code to javascript.I figured out \nit to be done using simple ajax code.\nmy ajax code :\n$(document).ready(function(){\n$(\"#ourl\").keyup(function() {\nvar surl=$(\"#ourl\").val();\nvar listAction = #{jsAction @UrlGeter.genurl(':url') /}\n$.get(listAction({url: surl}), function(data) {\n$(\"#newurl\").replaceWith(data);\n});\n});\n});\n\n\nyou can see the jsAction object here is the action invoker which calls the java function from\nUrlGeter controller class\nnow you need to create a java function genurl() into the controller UrlGeter as:\npublic static void genurl(String date)\n\n{\n\nrender(date)\n\n}\n\nnote: String is more compatible argument type\nnow create genurl.html\n${date}\n\ninclude your controller into routes of your application and you are ready to go", 
+      "tags": "ajax code to call java function from javascript function in play framework,call a controller using javascript play framework,call a java function from javascript code play framework,pass data between javascript and java function play framework,play framework", 
+      "loc": "/posts/20120627call-a-java-function-from-a-javascript-function-play-framework.html", 
+      "title": "Call a java function from a javascript function [play framework]"
+    }, 
+    {
+      "text": "how much time would you take to make a complete web app ?? \n-> use play you are just a command away <-\nprogrammers are working massively with great work load .\nthey need frameworks to create a structure and to take care\nof all the routes and security purposes .programmers\nare lazy and sont want to code all this again and again\nso to take care of all this we always have good frameworks\nlike django,.net,ruby on rails etc .\nwhats the basic difference on all this ?\nThe difference lies not on programmers taste on language choice\nthey are not an issue .But the main issues are\n->scalability\n->security\n->robustness\n->platform\n->deployment cost and issues\npoints to support play framework is better than others :\n->its highly scalable\n->with new japid templating engine its supports massively fast loading of pages\n->supports scala , java commonly known languages\n->rythm template\n->dynamic objects passing to html files using json\nThough play is new in market its already sucesfull .\nHope it serves more and people continue its use", 
+      "tags": "how is play framework better,play better than django,play better than ruby on rails,play framework,play framework,what new in play framework", 
+      "loc": "/posts/20120625whats-new-in-play-framework.html", 
+      "title": "whats new in play framework"
+    }, 
+    {
+      "text": "Play framework is new and in demand .I started a week back and i find it a awesome experience working with it.\nInstallation|setup steps:\n-> just download it and unzip your play folder into some directory for\nconvinience let us take it as /usr/local/\n->Path setting :\nnow you have to export your play folder path to your bash resource\nedit it as\n$ gedit .bashrc\nand add your path\nJAVA_HOME=/usr/lib/jvm/jdk1.7.0\nexport JAVA_HOME\nPATH=$PATH:$JAVA_HOME/usr/local/play-1.2.4/\nexport PATH\nnote: you have to add java home to your bash for proper working of play\nrun play :\nyou can offcourse look at the documentation\nplay 2.0.* onwards the documentation and usage have changed so i would not write any\n usage instrucion it would be better to refer the docs", 
+      "tags": "path of play framework,play framework,play framework path export,play framework path settings,set path of play framework,starting with play,starting with play framework", 
+      "loc": "/posts/20120625starting-with-play-framework.html", 
+      "title": "Starting with play framework"
+    }, 
+    {
+      "text": "started buildin some of windows phone7 apps for Iunlockjoy contest of microsoft\nyou may find my published apps in the market place by this link\nhttp://www.windowsphone.com/en-IN/publishers/kaushikgandhi", 
+      "tags": "windows phone 7 application,windows phone7 apps", 
+      "loc": "/posts/20120216hands-on-windows-phone-7-apps.html", 
+      "title": "Hands on windows phone 7 apps"
+    }, 
+    {
+      "text": "Hey is FOSS really worth it .???\n.I get this question over and over again ..I got this wonderful post you must see if you have same doubt !!\nWill Foss get me a Job?[slideshare id=5781805&w=425&h=355&sc=no]\n\n\n\nWhat should a computer science engineer do to get a job !!!\n\nI had this question for a real long .And it really haunted me till i saw this post :\n\n\n\nhttp://matt.might.net/articles/what-cs-majors-should-know/", 
+      "tags": "foss", 
+      "loc": "/posts/20120214some-posts-which-inspire-me.html", 
+      "title": "some  posts which inspire me"
+    }, 
+    {
+      "text": "I was not sure if i could participate this year being a final year student in college .But gsoc 2012 #faqs made it quite clear , that i have nothing to fear.\nI am in to gsoc preperation and now going quite messy .I have not been in touch with foss for quite a time now .Started off with looking arround with django (thought this could be a best option) .There has been a real good buzz about Askbot and Transifex Sayan chaudhary a mate has really been in to this and he has nailed it quite good .\nI am also thinking of looking into Gnome 3.0 bugs ,may be i can get a good option over there too. I have now started of to read the django book in mean while and gathering more information about previous projects related to django .\nLets hope for the best thats what i can do right now .", 
+      "tags": "django,gsoc,gsoc,gsoc 2012", 
+      "loc": "/posts/20120211getting-ready-for-gsoc-2012.html", 
+      "title": "Getting ready for gsoc 2012"
+    }, 
+    {
+      "text": "hi this is kaushik .I am making this blog to update about my works in 2012 and upcoming years !!", 
+      "tags": "", 
+      "loc": "/posts/20120211hello-world.html", 
+      "title": "hello world"
+    }, 
+    {
+      "text": "Hi,\nThis is kaushik gandhi's  tech blog\ncontact me on :\nkaushikfrnd [AT] gmail.com", 
+      "tags": "", 
+      "loc": "/stories/about-me.html", 
+      "title": "About me"
+    }
+  ]
+}

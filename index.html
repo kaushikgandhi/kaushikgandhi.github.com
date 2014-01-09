@@ -11,7 +11,13 @@ MathJax.Hub.Config({
 });
 </script><link href="assets/css/bitter.css" rel="stylesheet" type="text/css"><link href="assets/css/main.css" rel="stylesheet" type="text/css"><link href="assets/css/ipython.min.css" rel="stylesheet" type="text/css"><link href="assets/css/nikola_ipython.css" rel="stylesheet" type="text/css"><!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
-    <![endif]--><link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml"></head><body>
+    <![endif]--><link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml"><link rel="stylesheet" type="text/css" href="assets/css/tipuesearch.css"></head><body><div id="tipue_search_content" style="margin-left: auto; border:1px thin black; margin-right: auto; padding: 20px;"><span class=" pull-right">
+<h6>Search the site : <input type="text" id="tipue_search_input"></h6>
+</span></div>
+
+
+
+
     <section class="social"><ul><li><a href="#" title="Home"><i class="icon-home"></i></a></li>
         
     
@@ -113,13 +119,13 @@ It all started with hacking for  <a href="http://www.rtnpro.com/waartaa-irc-clie
 he guided me through on learning node and meteor to get-started with #waartaa. 
 Experimented with few new technologies "NodeJs" , "Meteor" , "Mongodb". <br><p>
 </p><h4>#A bit of scraping work with @Rashmi Ranjan Padhy</h4>
-I was quite excited to meet <a href="https://twitter.com/rashmiranjan">Rashmi ranjan</a> founder of banglore startups and currently trying to launch his new startup http://techchamp.co .With Rashmi, I started with something offbeat to my previous experience . I started on to scrapping <a href="http://reddit.com">reddit.com</a> and Hacker News with beautiful soup [python].
-<a href="http://news.ycombinator.com">Hacker news</a>.<br><h6>Note: Yes offcouse following there robots.txt. <br>
+I was quite excited to meet <a href="https://twitter.com/rashmiranjan">Rashmi ranjan</a> founder of banglore startups and currently trying to launch his new startup http://techchamp.co .With Rashmi, I started with something offbeat to my previous experience . I started on to scrapping <a href="http://reddit.com">reddit.com</a> and <a href="http://news.ycombinator.com">Hacker news</a> with beautiful soup [python].
+.<br><h6>Note: Yes offcouse following there robots.txt. <br>
  Disclaimer: Hacker News went down on 6th january 2014 that was not us :p. </h6>
 
 <h4>#hackathon 31st december geekNight by @hasgeek"</h4>
 Soon 2013 was about to end and in geek style. <br>
-I along with @rtnpro and @sayan_chowdhary went to geeknight organized by @hasgeek.<br>
+I along with @rtnpro and <a href="http://rtnpro.com">@sayan_chowdhary</a> went to geeknight organized by @hasgeek.<br>
 So we went on hacking with our #waartaa project. <br>
 @sayan gave a wonderful demo :
 <br><embed width="500" height="345" src="http://www.youtube.com/v/qn_u5meekXM" type="application/x-shockwave-flash"></embed></div>
@@ -655,4 +661,12 @@ Designed and built using Nikola, and hosted on <a href="http://github.com">githu
             $(function(){
                 $('.timeago').timeago();
             });
-        </script><script data-gittip-username="kaushik_gandhi" data-gittip-widget="button" src="//gttp.co/v1.js"></script></body></html>
+        </script><script type="text/javascript" src="assets/js/tipuesearch_set.js"></script><script type="text/javascript" src="assets/js/tipuesearch.js"></script><script type="text/javascript">
+$(document).ready(function() {
+    $('#tipue_search_input').tipuesearch({
+        'mode': 'json',
+        'contentLocation': '/assets/js/tipuesearch_content.json',
+        'showUrl': false
+    });
+});
+</script></body></html>

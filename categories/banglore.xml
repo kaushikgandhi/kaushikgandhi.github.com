@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Kaushik's blog (banglore)</title><link>http://localhost:8000</link><description></description><atom:link href="http://localhost:8000/categories/banglore.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 09 Jan 2014 19:10:42 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Chennai to Banglore a whole new experience</title><link>http://localhost:8000/posts/chennai-to-banglore-a-whole-new-experience.html</link><description>&lt;p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Kaushik's blog (banglore)</title><link>http://mekaushik.com</link><description></description><atom:link href="http://mekaushik.com/categories/banglore.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 09 Jan 2014 20:58:26 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Chennai to Banglore a whole new experience</title><link>http://mekaushik.com/posts/chennai-to-banglore-a-whole-new-experience.html</link><description>&lt;p&gt;
 Its been 1 month now since i moved to banglore.&lt;br&gt; 
 I thought of sharing my awesome experience in Indias largest IT hub.&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;h4&gt;How i started my journey&lt;/h4&gt;
@@ -29,13 +29,13 @@ It all started with hacking for  &lt;a href="http://www.rtnpro.com/waartaa-irc-c
 he guided me through on learning node and meteor to get-started with #waartaa. 
 Experimented with few new technologies "NodeJs" , "Meteor" , "Mongodb". &lt;br&gt;&lt;p&gt;
 &lt;/p&gt;&lt;h4&gt;#A bit of scraping work with @Rashmi Ranjan Padhy&lt;/h4&gt;
-I was quite excited to meet &lt;a href="https://twitter.com/rashmiranjan"&gt;Rashmi ranjan&lt;/a&gt; founder of banglore startups and currently trying to launch his new startup http://techchamp.co .With Rashmi, I started with something offbeat to my previous experience . I started on to scrapping &lt;a href="http://reddit.com"&gt;reddit.com&lt;/a&gt; and Hacker News with beautiful soup [python].
-&lt;a href="http://news.ycombinator.com"&gt;Hacker news&lt;/a&gt;.&lt;br&gt;&lt;h6&gt;Note: Yes offcouse following there robots.txt. &lt;br&gt;
+I was quite excited to meet &lt;a href="https://twitter.com/rashmiranjan"&gt;Rashmi ranjan&lt;/a&gt; founder of banglore startups and currently trying to launch his new startup http://techchamp.co .With Rashmi, I started with something offbeat to my previous experience . I started on to scrapping &lt;a href="http://reddit.com"&gt;reddit.com&lt;/a&gt; and &lt;a href="http://news.ycombinator.com"&gt;Hacker news&lt;/a&gt; with beautiful soup [python].
+.&lt;br&gt;&lt;h6&gt;Note: Yes offcouse following there robots.txt. &lt;br&gt;
  Disclaimer: Hacker News went down on 6th january 2014 that was not us :p. &lt;/h6&gt;
 
 &lt;h4&gt;#hackathon 31st december geekNight by @hasgeek"&lt;/h4&gt;
 Soon 2013 was about to end and in geek style. &lt;br&gt;
-I along with @rtnpro and @sayan_chowdhary went to geeknight organized by @hasgeek.&lt;br&gt;
+I along with @rtnpro and &lt;a href="http://rtnpro.com"&gt;@sayan_chowdhary&lt;/a&gt; went to geeknight organized by @hasgeek.&lt;br&gt;
 So we went on hacking with our #waartaa project. &lt;br&gt;
 @sayan gave a wonderful demo :
-&lt;br&gt;&lt;embed width="500" height="345" src="http://www.youtube.com/v/qn_u5meekXM" type="application/x-shockwave-flash"&gt;&lt;/embed&gt;</description><category>chennai</category><category>banglore</category><category>life</category><guid>http://localhost:8000/posts/chennai-to-banglore-a-whole-new-experience.html</guid><pubDate>Thu, 09 Jan 2014 19:15:33 GMT</pubDate></item></channel></rss>
+&lt;br&gt;&lt;embed width="500" height="345" src="http://www.youtube.com/v/qn_u5meekXM" type="application/x-shockwave-flash"&gt;&lt;/embed&gt;</description><category>chennai</category><category>banglore</category><category>life</category><guid>http://mekaushik.com/posts/chennai-to-banglore-a-whole-new-experience.html</guid><pubDate>Thu, 09 Jan 2014 19:15:33 GMT</pubDate></item></channel></rss>

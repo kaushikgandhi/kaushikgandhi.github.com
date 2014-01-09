@@ -11,7 +11,7 @@ BLOG_AUTHOR = "Kaushik Gandhi"
 BLOG_TITLE = "Kaushik's blog"
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://localhost:8000"
+SITE_URL = "http://mekaushik.com"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
@@ -485,30 +485,32 @@ SOCIAL_BUTTONS_CODE = """
 # options:
 
 # SEARCH_FORM = """
-# <span class="navbar-form pull-left">
+# <span class="pull-right">
 # <input type="text" id="tipue_search_input">
 # </span>"""
-#
-# BODY_END = """
-# <script type="text/javascript" src="/assets/js/tipuesearch_set.js"></script>
-# <script type="text/javascript" src="/assets/js/tipuesearch.js"></script>
-# <script type="text/javascript">
-# $(document).ready(function() {
-    # $('#tipue_search_input').tipuesearch({
-        # 'mode': 'json',
-        # 'contentLocation': '/assets/js/tipuesearch_content.json',
-        # 'showUrl': false
-    # });
-# });
-# </script>
-# """
 
-# EXTRA_HEAD_DATA = """
-# <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
-# <div id="tipue_search_content" style="margin-left: auto; margin-right: auto; padding: 20px;"></div>
-# """
-# ENABLED_EXTRAS = ['local_search']
-#
+BODY_END = """
+<script type="text/javascript" src="/assets/js/tipuesearch_set.js"></script>
+<script type="text/javascript" src="/assets/js/tipuesearch.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $('#tipue_search_input').tipuesearch({
+        'mode': 'json',
+        'contentLocation': '/assets/js/tipuesearch_content.json',
+        'showUrl': false
+    });
+});
+</script>
+"""
+
+EXTRA_HEAD_DATA = """
+<link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
+<div id="tipue_search_content" style="margin-left: auto; border:1px thin black; margin-right: auto; padding: 20px;"><span class=" pull-right">
+<h6>Search the site : <input type="text"  id="tipue_search_input"></h6>
+</span></div>
+"""
+ENABLED_EXTRAS = ['local_search']
+
 
 
 # Use content distribution networks for jquery and twitter-bootstrap css and js
@@ -522,11 +524,10 @@ SOCIAL_BUTTONS_CODE = """
 # EXTRA_HEAD_DATA = ""
 # Google analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
-BODY_END = """
-<script data-gittip-username="kaushik_gandhi"
-        data-gittip-widget="button"
-        src="//gttp.co/v1.js"></script>
-    """
+
+# BODY_END = """
+
+#     """
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
