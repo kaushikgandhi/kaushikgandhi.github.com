@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Kaushik's blog</title><link>http://localhost:8000</link><description>code, bugs and open-source</description><atom:link href="http://localhost:8000/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 09 Jan 2014 19:10:42 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Chennai to Banglore a whole new experience</title><link>http://localhost:8000/posts/chennai-to-banglore-a-whole-new-experience.html</link><description>&lt;p&gt;
+Its been 1 month now since i moved to banglore.&lt;br&gt; 
+I thought of sharing my awesome experience in Indias largest IT hub.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h4&gt;How i started my journey&lt;/h4&gt;
+Earlier in 2012 I started working with &lt;a href="http://reducedata.com"&gt;Reduce Data&lt;/a&gt; in chennai.&lt;br&gt;
+The work was really intresting i got a mentor like &lt;a href="http://asifali.me/"&gt;Asif Ali&lt;/a&gt;, and was really enjoying my work.&lt;br&gt;
+Initially chennai was good with lots of activities going arround with @chennaigeeks.&lt;br&gt;
+But banglore have always been tempting with its super cool climate and offcourse lots of&lt;br&gt;activities 
+with many geek communities in banglore.
+
+&lt;p&gt;
+&lt;/p&gt;&lt;h4&gt;Something that i had never experience before: &lt;/h4&gt;
+I was coming back from my home town @Durgapur in Westbengal(India).&lt;br&gt;
+It never happened before in train i heard someone explaining about MySql transactions&lt;br&gt; to his wife.
+you don't find such companinons specially in trains , Atleast i never got similar co-passengers in 
+my way to chennai , Soon i realized its banglore dude, and an intresting journey is about to start.
+
+
+&lt;br&gt;&lt;p&gt;
+&lt;iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?client=ubuntu&amp;amp;channel=fs&amp;amp;oe=utf-8&amp;amp;q=banglore&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Bangalore,+Bangalore+Urban,+Karnataka&amp;amp;t=h&amp;amp;z=10&amp;amp;ll=12.971599,77.594563&amp;amp;output=embed"&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;&lt;h4&gt;Finally @14th dec,13 I was in banglore.&lt;/h4&gt;
+Since my arrival in banglore it had been a crazy journey meeting geeks, &lt;br&gt;
+entrepreneurs and attending hackathons.
+Some of my experience are worth mentioning.
+&lt;h4&gt;#Waartaa&lt;/h4&gt;
+It all started with hacking for  &lt;a href="http://www.rtnpro.com/waartaa-irc-client-as-a-service.html"&gt;#waartaa an Irc web-client as service &lt;/a&gt;. I met &lt;a href="http://rtnpro.com"&gt;@rtnpro&lt;/a&gt;.
+he guided me through on learning node and meteor to get-started with #waartaa. 
+Experimented with few new technologies "NodeJs" , "Meteor" , "Mongodb". &lt;br&gt;&lt;p&gt;
+&lt;/p&gt;&lt;h4&gt;#A bit of scraping work with @Rashmi Ranjan Padhy&lt;/h4&gt;
+I was quite excited to meet &lt;a href="https://twitter.com/rashmiranjan"&gt;Rashmi ranjan&lt;/a&gt; founder of banglore startups and currently trying to launch his new startup http://techchamp.co .With Rashmi, I started with something offbeat to my previous experience . I started on to scrapping &lt;a href="http://reddit.com"&gt;reddit.com&lt;/a&gt; and Hacker News with beautiful soup [python].
+&lt;a href="http://news.ycombinator.com"&gt;Hacker news&lt;/a&gt;.&lt;br&gt;&lt;h6&gt;Note: Yes offcouse following there robots.txt. &lt;br&gt;
+ Disclaimer: Hacker News went down on 6th january 2014 that was not us :p. &lt;/h6&gt;
+
+&lt;h4&gt;#hackathon 31st december geekNight by @hasgeek"&lt;/h4&gt;
+Soon 2013 was about to end and in geek style. &lt;br&gt;
+I along with @rtnpro and @sayan_chowdhary went to geeknight organized by @hasgeek.&lt;br&gt;
+So we went on hacking with our #waartaa project. &lt;br&gt;
+@sayan gave a wonderful demo :
+&lt;br&gt;&lt;embed width="500" height="345" src="http://www.youtube.com/v/qn_u5meekXM" type="application/x-shockwave-flash"&gt;&lt;/embed&gt;</description><category>chennai</category><category>banglore</category><category>life</category><guid>http://localhost:8000/posts/chennai-to-banglore-a-whole-new-experience.html</guid><pubDate>Thu, 09 Jan 2014 19:15:33 GMT</pubDate></item><item><title>My new nikola website</title><link>http://localhost:8000/posts/my-new-nikola-website.html</link><description>&lt;p&gt;Write your post here.&lt;/p&gt;</description><guid>http://localhost:8000/posts/my-new-nikola-website.html</guid><pubDate>Thu, 09 Jan 2014 17:09:35 GMT</pubDate></item><item><title>set your maximum time range of selection for DateRangePicker.js</title><link>http://localhost:8000/posts/20120627set-your-maximum-time-range-of-selection-for-daterangepicker-js.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;I wanted to create a date range picker where we i can set maximum dateselection 
+range of 3 months so i edited the Daterangepicker.js :&lt;/p&gt;
+&lt;p&gt;let us first look at the date range picker you can add the beautiful date range &lt;/p&gt;
+&lt;p&gt;selector by adding this code &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;pre&gt;
+&lt;p&gt;&lt;strong&gt;HTML:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;input type="text"&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;jQuery:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$('input').daterangepicker(); &lt;/p&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;now you have to edit daterangepicker.js :&lt;/p&gt;
+&lt;p&gt;i have setted the max date selection range as 3 months you can make it &lt;/p&gt;
+&lt;p&gt;to any of your choice here is my code : &lt;a href="http://jsfiddle.net/W2YLr/"&gt;http://jsfiddle.net/W2YLr/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;what i have edited :&lt;/p&gt;
+&lt;p&gt;i edited the datepicker option section as :&lt;/p&gt;
+&lt;pre&gt;
+
+if(rp.find('li.ui-state-active').is('.ui-daterangepicker-allDatesBefore'))
+ {
+  &lt;strong&gt;var edtemp = new Date(new Date(ed).setMonth(ed.getMonth()-3));    &lt;/strong&gt;
+  rangeA=fDate(edtemp);   
+ startingDate=edtemp;
+  endingDate=ed;                    
+  }
+&lt;/pre&gt;
+
+&lt;p&gt;you can find some -3 and +3 codes inside the date picker you can change this values with &lt;/p&gt;
+&lt;p&gt;how many months you need it .&lt;/p&gt;
+&lt;p&gt;i also edited the &lt;strong&gt;hideRP()&lt;/strong&gt; function so that now you can get the startdate and enddate &lt;/p&gt;
+&lt;p&gt;through jquery call of the event &lt;strong&gt;onClose&lt;/strong&gt; &lt;/p&gt;
+&lt;pre&gt;
+
+&lt;strong&gt;$('input').daterangepicker()
+
+{
+
+onClose:function(startdate,enddate)
+
+{
+
+alert("start date:"+startdate+"end date:"+enddate);
+
+}&lt;/strong&gt;
+
+}
+
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description><category>daterangepicker</category><category>edit date rangepicker.js</category><category>limit date range selection of daterangepicker</category><category>set range of selection to daterangepicker</category><guid>http://localhost:8000/posts/20120627set-your-maximum-time-range-of-selection-for-daterangepicker-js.html</guid><pubDate>Wed, 27 Jun 2012 12:27:08 GMT</pubDate></item><item><title>Call a java function from a javascript function [play framework]</title><link>http://localhost:8000/posts/20120627call-a-java-function-from-a-javascript-function-play-framework.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;There are many ways to pass data and acess data from a java code and a javascript 
+functionwithin play framework.But i was in a condition where i was to exchange &lt;/p&gt;
+&lt;p&gt;data from a javascript to java code and from java code to javascript.I figured out &lt;/p&gt;
+&lt;p&gt;it to be done using simple ajax code.&lt;/p&gt;
+&lt;p&gt;my ajax code :&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;strong&gt;&lt;code&gt;$(document).ready(function(){
+&lt;p&gt;$("#ourl").keyup(function() {&lt;/p&gt;
+&lt;p&gt;var surl=$("#ourl").val();&lt;/p&gt;
+&lt;p&gt;var listAction = #{jsAction @UrlGeter.genurl(':url') /}&lt;/p&gt;
+&lt;p&gt;$.get(listAction({url: surl}), function(data) {&lt;/p&gt;
+&lt;p&gt;$("#newurl").replaceWith(data);&lt;/p&gt;
+&lt;p&gt;});&lt;/p&gt;
+&lt;p&gt;});&lt;/p&gt;
+&lt;p&gt;});&lt;/p&gt;&lt;/code&gt;&lt;/strong&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;you can see the jsAction object here is the action invoker which calls the java function from&lt;/p&gt;
+&lt;p&gt;UrlGeter controller class&lt;/p&gt;
+&lt;p&gt;now you need to create a java function genurl() into the controller UrlGeter as:&lt;/p&gt;
+&lt;pre&gt;&lt;strong&gt;&lt;code&gt;public static void genurl(String date)
+
+{
+
+render(date)
+
+}&lt;/code&gt;&lt;/strong&gt;&lt;/pre&gt;
+
+&lt;p&gt;note: String is more compatible argument type&lt;/p&gt;
+&lt;p&gt;now create genurl.html&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&lt;strong&gt;${date}&lt;/strong&gt;&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;include your controller into routes of your application and you are ready to go&lt;/p&gt;</description><category>ajax code to call java function from javascript function in play framework</category><category>call a controller using javascript play framework</category><category>call a java function from javascript code play framework</category><category>pass data between javascript and java function play framework</category><category>play framework</category><guid>http://localhost:8000/posts/20120627call-a-java-function-from-a-javascript-function-play-framework.html</guid><pubDate>Wed, 27 Jun 2012 07:03:54 GMT</pubDate></item><item><title>whats new in play framework</title><link>http://localhost:8000/posts/20120625whats-new-in-play-framework.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;strong&gt;how much time would you take to make a complete web app ?? &lt;/strong&gt;
+-&amp;gt; use play you are just a command away &amp;lt;-
+&lt;p&gt;programmers are working massively with great work load .&lt;/p&gt;
+&lt;p&gt;they need frameworks to create a structure and to take care&lt;/p&gt;
+&lt;p&gt;of all the routes and security purposes .programmers&lt;/p&gt;
+&lt;p&gt;are lazy and sont want to code all this again and again&lt;/p&gt;
+&lt;p&gt;so to take care of all this we always have good frameworks&lt;/p&gt;
+&lt;p&gt;like django,.net,ruby on rails etc .&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;whats the basic difference on all this ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The difference lies not on programmers taste on language choice&lt;/p&gt;
+&lt;p&gt;they are not an issue .But the main issues are&lt;/p&gt;
+&lt;p&gt;-&amp;gt;scalability&lt;/p&gt;
+&lt;p&gt;-&amp;gt;security&lt;/p&gt;
+&lt;p&gt;-&amp;gt;robustness&lt;/p&gt;
+&lt;p&gt;-&amp;gt;platform&lt;/p&gt;
+&lt;p&gt;-&amp;gt;deployment cost and issues&lt;/p&gt;
+&lt;p&gt;points to support play framework is better than others :&lt;/p&gt;
+&lt;p&gt;-&amp;gt;its highly scalable&lt;/p&gt;
+&lt;p&gt;-&amp;gt;with new japid templating engine its supports massively fast loading of pages&lt;/p&gt;
+&lt;p&gt;-&amp;gt;supports scala , java commonly known languages&lt;/p&gt;
+&lt;p&gt;-&amp;gt;rythm template&lt;/p&gt;
+&lt;p&gt;-&amp;gt;dynamic objects passing to html files using json&lt;/p&gt;
+&lt;p&gt;Though play is new in market its already sucesfull .&lt;/p&gt;
+&lt;p&gt;Hope it serves more and people continue its use&lt;/p&gt;</description><category>how is play framework better</category><category>play better than django</category><category>play better than ruby on rails</category><category>play framework</category><category>play framework</category><category>what new in play framework</category><guid>http://localhost:8000/posts/20120625whats-new-in-play-framework.html</guid><pubDate>Mon, 25 Jun 2012 21:12:32 GMT</pubDate></item><item><title>Starting with play framework</title><link>http://localhost:8000/posts/20120625starting-with-play-framework.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Play framework is new and in demand .I started a week back and i find it a awesome experience working with it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Installation|setup steps:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-&amp;gt; just download it and unzip your play folder into some directory for&lt;/p&gt;
+&lt;p&gt;convinience let us take it as /usr/local/&lt;/p&gt;
+&lt;p&gt;-&amp;gt;Path setting :&lt;/p&gt;
+&lt;p&gt;now you have to export your play folder path to your bash resource&lt;/p&gt;
+&lt;p&gt;edit it as&lt;/p&gt;
+&lt;p&gt;$ gedit .bashrc&lt;/p&gt;
+&lt;p&gt;and add your path&lt;/p&gt;
+&lt;p&gt;JAVA_HOME=/usr/lib/jvm/jdk1.7.0&lt;/p&gt;
+&lt;p&gt;export JAVA_HOME&lt;/p&gt;
+&lt;p&gt;PATH=$PATH:$JAVA_HOME&lt;strong&gt;/usr/local/play-1.2.4/&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;export PATH&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;note&lt;/strong&gt;: you have to add java home to your bash for proper working of play&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;run play :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;you can offcourse look at the &lt;a href="http://http://www.playframework.org" title="play documentation"&gt;documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;play 2.0.* onwards the documentation and usage have changed so i would not write any
+ usage instrucion it would be better to refer the docs &lt;/p&gt;</description><category>path of play framework</category><category>play framework</category><category>play framework path export</category><category>play framework path settings</category><category>set path of play framework</category><category>starting with play</category><category>starting with play framework</category><guid>http://localhost:8000/posts/20120625starting-with-play-framework.html</guid><pubDate>Mon, 25 Jun 2012 18:20:47 GMT</pubDate></item><item><title>Hands on windows phone 7 apps</title><link>http://localhost:8000/posts/20120216hands-on-windows-phone-7-apps.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;started buildin some of windows phone7 apps for Iunlockjoy contest of microsoft&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;you may find my published apps in the market place by this link&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;http://www.windowsphone.com/en-IN/publishers/kaushikgandhi&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description><category>windows phone 7 application</category><category>windows phone7 apps</category><guid>http://localhost:8000/posts/20120216hands-on-windows-phone-7-apps.html</guid><pubDate>Thu, 16 Feb 2012 20:39:37 GMT</pubDate></item><item><title>some  posts which inspire me</title><link>http://localhost:8000/posts/20120214some-posts-which-inspire-me.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;strong&gt;Hey is FOSS really worth it&lt;/strong&gt; .???
+&lt;p&gt;.I get this question over and over again ..I got this wonderful post you must see if you have same doubt !!&lt;/p&gt;
+&lt;div id="__ss_5781805" style="width:425px;"&gt;&lt;strong&gt;&lt;a title="Will Foss get me a Job?" href="http://www.slideshare.net/jaganadhg/ilugcbe" target="_blank"&gt;Will Foss get me a Job?&lt;/a&gt;&lt;/strong&gt;[slideshare id=5781805&amp;amp;w=425&amp;amp;h=355&amp;amp;sc=no]
+
+&lt;div style="padding:5px 0 12px;"&gt;&lt;/div&gt;
+
+&lt;div style="padding:5px 0 12px;"&gt;&lt;strong&gt;What should a computer science engineer do to get a job !!!&lt;/strong&gt;&lt;/div&gt;
+
+&lt;div style="padding:5px 0 12px;"&gt;I had this question for a real long .And it really haunted me till i saw this post :&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div style="padding:5px 0 12px;"&gt;&lt;a href="http://matt.might.net/articles/what-cs-majors-should-know/" target="_blank"&gt;http://matt.might.net/articles/what-cs-majors-should-know/&lt;/a&gt;&lt;/div&gt;
+
+&lt;div style="padding:5px 0 12px;"&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;</description><category>foss</category><guid>http://localhost:8000/posts/20120214some-posts-which-inspire-me.html</guid><pubDate>Tue, 14 Feb 2012 20:09:38 GMT</pubDate></item><item><title>Getting ready for gsoc 2012</title><link>http://localhost:8000/posts/20120211getting-ready-for-gsoc-2012.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;I was not sure if i could participate this year being a final year student in college .But gsoc 2012 #faqs made it quite clear , that i have nothing to fear.&lt;/p&gt;
+&lt;p&gt;I am in to gsoc preperation and now going quite messy .I have not been in touch with foss for quite a time now .Started off with looking arround with django (thought this could be a best option) .There has been a real good buzz about Askbot and Transifex &lt;a title="sayan chaudhary" href="http://fosswithme.blogspot.com"&gt;Sayan chaudhary&lt;/a&gt; a mate has really been in to this and he has nailed it quite good .&lt;/p&gt;
+&lt;p&gt;I am also thinking of looking into Gnome 3.0 bugs ,may be i can get a good option over there too. I have now started of to read the django book in mean while and gathering more information about previous projects related to django .&lt;/p&gt;
+&lt;p&gt;Lets hope for the best thats what i can do right now .&lt;/p&gt;</description><category>django</category><category>gsoc</category><category>gsoc</category><category>gsoc 2012</category><guid>http://localhost:8000/posts/20120211getting-ready-for-gsoc-2012.html</guid><pubDate>Sun, 12 Feb 2012 00:43:40 GMT</pubDate></item><item><title>hello world</title><link>http://localhost:8000/posts/20120211hello-world.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;hi this is kaushik .I am making this blog to update about my works in 2012 and upcoming years !!&lt;/p&gt;</description><guid>http://localhost:8000/posts/20120211hello-world.html</guid><pubDate>Sat, 11 Feb 2012 23:07:51 GMT</pubDate></item></channel></rss>

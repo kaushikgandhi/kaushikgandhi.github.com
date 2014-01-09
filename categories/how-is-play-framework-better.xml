@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Kaushik's blog (how is play framework better)</title><link>http://localhost:8000</link><description></description><atom:link href="http://localhost:8000/categories/how-is-play-framework-better.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 09 Jan 2014 17:56:45 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>whats new in play framework</title><link>http://localhost:8000/posts/20120625whats-new-in-play-framework.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;strong&gt;how much time would you take to make a complete web app ?? &lt;/strong&gt;
+-&amp;gt; use play you are just a command away &amp;lt;-
+&lt;p&gt;programmers are working massively with great work load .&lt;/p&gt;
+&lt;p&gt;they need frameworks to create a structure and to take care&lt;/p&gt;
+&lt;p&gt;of all the routes and security purposes .programmers&lt;/p&gt;
+&lt;p&gt;are lazy and sont want to code all this again and again&lt;/p&gt;
+&lt;p&gt;so to take care of all this we always have good frameworks&lt;/p&gt;
+&lt;p&gt;like django,.net,ruby on rails etc .&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;whats the basic difference on all this ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The difference lies not on programmers taste on language choice&lt;/p&gt;
+&lt;p&gt;they are not an issue .But the main issues are&lt;/p&gt;
+&lt;p&gt;-&amp;gt;scalability&lt;/p&gt;
+&lt;p&gt;-&amp;gt;security&lt;/p&gt;
+&lt;p&gt;-&amp;gt;robustness&lt;/p&gt;
+&lt;p&gt;-&amp;gt;platform&lt;/p&gt;
+&lt;p&gt;-&amp;gt;deployment cost and issues&lt;/p&gt;
+&lt;p&gt;points to support play framework is better than others :&lt;/p&gt;
+&lt;p&gt;-&amp;gt;its highly scalable&lt;/p&gt;
+&lt;p&gt;-&amp;gt;with new japid templating engine its supports massively fast loading of pages&lt;/p&gt;
+&lt;p&gt;-&amp;gt;supports scala , java commonly known languages&lt;/p&gt;
+&lt;p&gt;-&amp;gt;rythm template&lt;/p&gt;
+&lt;p&gt;-&amp;gt;dynamic objects passing to html files using json&lt;/p&gt;
+&lt;p&gt;Though play is new in market its already sucesfull .&lt;/p&gt;
+&lt;p&gt;Hope it serves more and people continue its use&lt;/p&gt;</description><category>how is play framework better</category><category>play better than django</category><category>play better than ruby on rails</category><category>play framework</category><category>play framework</category><category>what new in play framework</category><guid>http://localhost:8000/posts/20120625whats-new-in-play-framework.html</guid><pubDate>Mon, 25 Jun 2012 21:12:32 GMT</pubDate></item></channel></rss>

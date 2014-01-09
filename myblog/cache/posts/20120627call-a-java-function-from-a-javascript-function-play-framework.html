@@ -1,0 +1,32 @@
+<p><html><body><p>There are many ways to pass data and acess data from a java code and a javascript 
+functionwithin play framework.But i was in a condition where i was to exchange </p>
+<p>data from a javascript to java code and from java code to javascript.I figured out </p>
+<p>it to be done using simple ajax code.</p>
+<p>my ajax code :</p>
+<p></p><pre><strong><code>$(document).ready(function(){</p>
+<p>$("#ourl").keyup(function() {</p>
+<p>var surl=$("#ourl").val();</p>
+<p>var listAction = #{jsAction @UrlGeter.genurl(':url') /}</p>
+<p>$.get(listAction({url: surl}), function(data) {</p>
+<p>$("#newurl").replaceWith(data);</p>
+<p>});</p>
+<p>});</p>
+<p>});</code></strong></p>
+</pre>
+
+<p>you can see the jsAction object here is the action invoker which calls the java function from</p>
+<p>UrlGeter controller class</p>
+<p>now you need to create a java function genurl() into the controller UrlGeter as:</p>
+<pre><strong><code>public static void genurl(String date)
+
+{
+
+render(date)
+
+}</code></strong></pre>
+
+<p>note: String is more compatible argument type</p>
+<p>now create genurl.html</p>
+<pre><code><strong>${date}</strong></code></pre>
+
+<p>include your controller into routes of your application and you are ready to go</body></html></p>

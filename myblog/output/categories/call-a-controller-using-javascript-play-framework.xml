@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Kaushik's blog (call a controller using javascript play framework)</title><link>http://localhost:8000</link><description></description><atom:link href="http://localhost:8000/categories/call-a-controller-using-javascript-play-framework.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 09 Jan 2014 17:56:45 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Call a java function from a javascript function [play framework]</title><link>http://localhost:8000/posts/20120627call-a-java-function-from-a-javascript-function-play-framework.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;There are many ways to pass data and acess data from a java code and a javascript 
+functionwithin play framework.But i was in a condition where i was to exchange &lt;/p&gt;
+&lt;p&gt;data from a javascript to java code and from java code to javascript.I figured out &lt;/p&gt;
+&lt;p&gt;it to be done using simple ajax code.&lt;/p&gt;
+&lt;p&gt;my ajax code :&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;pre&gt;&lt;strong&gt;&lt;code&gt;$(document).ready(function(){
+&lt;p&gt;$("#ourl").keyup(function() {&lt;/p&gt;
+&lt;p&gt;var surl=$("#ourl").val();&lt;/p&gt;
+&lt;p&gt;var listAction = #{jsAction @UrlGeter.genurl(':url') /}&lt;/p&gt;
+&lt;p&gt;$.get(listAction({url: surl}), function(data) {&lt;/p&gt;
+&lt;p&gt;$("#newurl").replaceWith(data);&lt;/p&gt;
+&lt;p&gt;});&lt;/p&gt;
+&lt;p&gt;});&lt;/p&gt;
+&lt;p&gt;});&lt;/p&gt;&lt;/code&gt;&lt;/strong&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;you can see the jsAction object here is the action invoker which calls the java function from&lt;/p&gt;
+&lt;p&gt;UrlGeter controller class&lt;/p&gt;
+&lt;p&gt;now you need to create a java function genurl() into the controller UrlGeter as:&lt;/p&gt;
+&lt;pre&gt;&lt;strong&gt;&lt;code&gt;public static void genurl(String date)
+
+{
+
+render(date)
+
+}&lt;/code&gt;&lt;/strong&gt;&lt;/pre&gt;
+
+&lt;p&gt;note: String is more compatible argument type&lt;/p&gt;
+&lt;p&gt;now create genurl.html&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&lt;strong&gt;${date}&lt;/strong&gt;&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;include your controller into routes of your application and you are ready to go&lt;/p&gt;</description><category>ajax code to call java function from javascript function in play framework</category><category>call a controller using javascript play framework</category><category>call a java function from javascript code play framework</category><category>pass data between javascript and java function play framework</category><category>play framework</category><guid>http://localhost:8000/posts/20120627call-a-java-function-from-a-javascript-function-play-framework.html</guid><pubDate>Wed, 27 Jun 2012 07:03:54 GMT</pubDate></item></channel></rss>

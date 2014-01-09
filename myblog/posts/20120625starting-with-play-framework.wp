@@ -1,0 +1,59 @@
+<html><body><p>Play framework is new and in demand .I started a week back and i find it a awesome experience working with it.
+
+
+<strong>Installation|setup steps:</strong>
+
+
+
+-&gt; just download it and unzip your play folder into some directory for
+
+
+
+convinience let us take it as /usr/local/
+
+
+
+-&gt;Path setting :
+
+
+
+now you have to export your play folder path to your bash resource
+
+
+
+edit it as
+
+
+
+$ gedit .bashrc
+
+
+
+and add your path
+
+
+
+JAVA_HOME=/usr/lib/jvm/jdk1.7.0
+
+export JAVA_HOME
+
+PATH=$PATH:$JAVA_HOME<strong>/usr/local/play-1.2.4/</strong>
+
+export PATH
+
+
+
+<strong>note</strong>: you have to add java home to your bash for proper working of play
+
+
+
+<strong>run play :</strong>
+
+
+
+you can offcourse look at the <a href="http://http://www.playframework.org" title="play documentation">documentation</a>
+
+
+
+play 2.0.* onwards the documentation and usage have changed so i would not write any
+ usage instrucion it would be better to refer the docs </p></body></html>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Kaushik's blog (life)</title><link>http://localhost:8000</link><description></description><atom:link href="http://localhost:8000/categories/life.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 09 Jan 2014 19:10:42 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Chennai to Banglore a whole new experience</title><link>http://localhost:8000/posts/chennai-to-banglore-a-whole-new-experience.html</link><description>&lt;p&gt;
+Its been 1 month now since i moved to banglore.&lt;br&gt; 
+I thought of sharing my awesome experience in Indias largest IT hub.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h4&gt;How i started my journey&lt;/h4&gt;
+Earlier in 2012 I started working with &lt;a href="http://reducedata.com"&gt;Reduce Data&lt;/a&gt; in chennai.&lt;br&gt;
+The work was really intresting i got a mentor like &lt;a href="http://asifali.me/"&gt;Asif Ali&lt;/a&gt;, and was really enjoying my work.&lt;br&gt;
+Initially chennai was good with lots of activities going arround with @chennaigeeks.&lt;br&gt;
+But banglore have always been tempting with its super cool climate and offcourse lots of&lt;br&gt;activities 
+with many geek communities in banglore.
+
+&lt;p&gt;
+&lt;/p&gt;&lt;h4&gt;Something that i had never experience before: &lt;/h4&gt;
+I was coming back from my home town @Durgapur in Westbengal(India).&lt;br&gt;
+It never happened before in train i heard someone explaining about MySql transactions&lt;br&gt; to his wife.
+you don't find such companinons specially in trains , Atleast i never got similar co-passengers in 
+my way to chennai , Soon i realized its banglore dude, and an intresting journey is about to start.
+
+
+&lt;br&gt;&lt;p&gt;
+&lt;iframe width="500" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?client=ubuntu&amp;amp;channel=fs&amp;amp;oe=utf-8&amp;amp;q=banglore&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Bangalore,+Bangalore+Urban,+Karnataka&amp;amp;t=h&amp;amp;z=10&amp;amp;ll=12.971599,77.594563&amp;amp;output=embed"&gt;&lt;/iframe&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;&lt;h4&gt;Finally @14th dec,13 I was in banglore.&lt;/h4&gt;
+Since my arrival in banglore it had been a crazy journey meeting geeks, &lt;br&gt;
+entrepreneurs and attending hackathons.
+Some of my experience are worth mentioning.
+&lt;h4&gt;#Waartaa&lt;/h4&gt;
+It all started with hacking for  &lt;a href="http://www.rtnpro.com/waartaa-irc-client-as-a-service.html"&gt;#waartaa an Irc web-client as service &lt;/a&gt;. I met &lt;a href="http://rtnpro.com"&gt;@rtnpro&lt;/a&gt;.
+he guided me through on learning node and meteor to get-started with #waartaa. 
+Experimented with few new technologies "NodeJs" , "Meteor" , "Mongodb". &lt;br&gt;&lt;p&gt;
+&lt;/p&gt;&lt;h4&gt;#A bit of scraping work with @Rashmi Ranjan Padhy&lt;/h4&gt;
+I was quite excited to meet &lt;a href="https://twitter.com/rashmiranjan"&gt;Rashmi ranjan&lt;/a&gt; founder of banglore startups and currently trying to launch his new startup http://techchamp.co .With Rashmi, I started with something offbeat to my previous experience . I started on to scrapping &lt;a href="http://reddit.com"&gt;reddit.com&lt;/a&gt; and Hacker News with beautiful soup [python].
+&lt;a href="http://news.ycombinator.com"&gt;Hacker news&lt;/a&gt;.&lt;br&gt;&lt;h6&gt;Note: Yes offcouse following there robots.txt. &lt;br&gt;
+ Disclaimer: Hacker News went down on 6th january 2014 that was not us :p. &lt;/h6&gt;
+
+&lt;h4&gt;#hackathon 31st december geekNight by @hasgeek"&lt;/h4&gt;
+Soon 2013 was about to end and in geek style. &lt;br&gt;
+I along with @rtnpro and @sayan_chowdhary went to geeknight organized by @hasgeek.&lt;br&gt;
+So we went on hacking with our #waartaa project. &lt;br&gt;
+@sayan gave a wonderful demo :
+&lt;br&gt;&lt;embed width="500" height="345" src="http://www.youtube.com/v/qn_u5meekXM" type="application/x-shockwave-flash"&gt;&lt;/embed&gt;</description><category>chennai</category><category>banglore</category><category>life</category><guid>http://localhost:8000/posts/chennai-to-banglore-a-whole-new-experience.html</guid><pubDate>Thu, 09 Jan 2014 19:15:33 GMT</pubDate></item></channel></rss>

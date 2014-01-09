@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Kaushik's blog (set range of selection to daterangepicker)</title><link>http://localhost:8000</link><description></description><atom:link href="http://localhost:8000/categories/set-range-of-selection-to-daterangepicker.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 09 Jan 2014 17:56:45 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>set your maximum time range of selection for DateRangePicker.js</title><link>http://localhost:8000/posts/20120627set-your-maximum-time-range-of-selection-for-daterangepicker-js.html</link><description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;I wanted to create a date range picker where we i can set maximum dateselection 
+range of 3 months so i edited the Daterangepicker.js :&lt;/p&gt;
+&lt;p&gt;let us first look at the date range picker you can add the beautiful date range &lt;/p&gt;
+&lt;p&gt;selector by adding this code &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;pre&gt;
+&lt;p&gt;&lt;strong&gt;HTML:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;input type="text"&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;jQuery:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;$('input').daterangepicker(); &lt;/p&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;now you have to edit daterangepicker.js :&lt;/p&gt;
+&lt;p&gt;i have setted the max date selection range as 3 months you can make it &lt;/p&gt;
+&lt;p&gt;to any of your choice here is my code : &lt;a href="http://jsfiddle.net/W2YLr/"&gt;http://jsfiddle.net/W2YLr/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;what i have edited :&lt;/p&gt;
+&lt;p&gt;i edited the datepicker option section as :&lt;/p&gt;
+&lt;pre&gt;
+
+if(rp.find('li.ui-state-active').is('.ui-daterangepicker-allDatesBefore'))
+ {
+  &lt;strong&gt;var edtemp = new Date(new Date(ed).setMonth(ed.getMonth()-3));    &lt;/strong&gt;
+  rangeA=fDate(edtemp);   
+ startingDate=edtemp;
+  endingDate=ed;                    
+  }
+&lt;/pre&gt;
+
+&lt;p&gt;you can find some -3 and +3 codes inside the date picker you can change this values with &lt;/p&gt;
+&lt;p&gt;how many months you need it .&lt;/p&gt;
+&lt;p&gt;i also edited the &lt;strong&gt;hideRP()&lt;/strong&gt; function so that now you can get the startdate and enddate &lt;/p&gt;
+&lt;p&gt;through jquery call of the event &lt;strong&gt;onClose&lt;/strong&gt; &lt;/p&gt;
+&lt;pre&gt;
+
+&lt;strong&gt;$('input').daterangepicker()
+
+{
+
+onClose:function(startdate,enddate)
+
+{
+
+alert("start date:"+startdate+"end date:"+enddate);
+
+}&lt;/strong&gt;
+
+}
+
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;/p&gt;</description><category>daterangepicker</category><category>edit date rangepicker.js</category><category>limit date range selection of daterangepicker</category><category>set range of selection to daterangepicker</category><guid>http://localhost:8000/posts/20120627set-your-maximum-time-range-of-selection-for-daterangepicker-js.html</guid><pubDate>Wed, 27 Jun 2012 12:27:08 GMT</pubDate></item></channel></rss>

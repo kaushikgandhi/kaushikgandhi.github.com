@@ -1,0 +1,58 @@
+<html><body><strong>how much time would you take to make a complete web app ?? </strong>
+-&gt; use play you are just a command away &lt;-
+
+programmers are working massively with great work load .
+
+they need frameworks to create a structure and to take care
+
+of all the routes and security purposes .programmers
+
+are lazy and sont want to code all this again and again
+
+so to take care of all this we always have good frameworks
+
+like django,.net,ruby on rails etc .
+
+
+
+<strong>whats the basic difference on all this ?</strong>
+
+
+
+The difference lies not on programmers taste on language choice
+
+they are not an issue .But the main issues are
+
+
+
+-&gt;scalability
+
+-&gt;security
+
+-&gt;robustness
+
+-&gt;platform
+
+-&gt;deployment cost and issues
+
+
+
+points to support play framework is better than others :
+
+
+
+-&gt;its highly scalable
+
+-&gt;with new japid templating engine its supports massively fast loading of pages
+
+-&gt;supports scala , java commonly known languages
+
+-&gt;rythm template
+
+-&gt;dynamic objects passing to html files using json
+
+
+
+Though play is new in market its already sucesfull .
+
+Hope it serves more and people continue its use</body></html>

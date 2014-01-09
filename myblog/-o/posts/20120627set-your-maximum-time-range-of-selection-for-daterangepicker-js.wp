@@ -1,0 +1,83 @@
+<html><body><p>I wanted to create a date range picker where we i can set maximum dateselection 
+range of 3 months so i edited the Daterangepicker.js :
+
+
+
+let us first look at the date range picker you can add the beautiful date range 
+
+selector by adding this code 
+
+
+
+</p><pre>
+
+<strong>HTML:</strong>
+
+<code>input type="text"</code>
+
+<strong>jQuery:</strong>
+
+$('input').daterangepicker(); 
+
+
+
+</pre>
+
+now you have to edit daterangepicker.js :
+
+
+
+i have setted the max date selection range as 3 months you can make it 
+
+to any of your choice here is my code : <a href="http://jsfiddle.net/W2YLr/">http://jsfiddle.net/W2YLr/</a>
+
+
+
+what i have edited :
+
+
+
+i edited the datepicker option section as :
+
+
+
+<pre>
+
+if(rp.find('li.ui-state-active').is('.ui-daterangepicker-allDatesBefore'))
+ {
+  <strong>var edtemp = new Date(new Date(ed).setMonth(ed.getMonth()-3));	</strong>
+  rangeA=fDate(edtemp);   
+ startingDate=edtemp;
+  endingDate=ed;    				
+  }
+</pre>
+
+you can find some -3 and +3 codes inside the date picker you can change this values with 
+
+how many months you need it .
+
+
+
+
+
+i also edited the <strong>hideRP()</strong> function so that now you can get the startdate and enddate 
+
+through jquery call of the event <strong>onClose</strong> 
+
+<pre>
+
+<strong>$('input').daterangepicker()
+
+{
+
+onClose:function(startdate,enddate)
+
+{
+
+alert("start date:"+startdate+"end date:"+enddate);
+
+}</strong>
+
+}
+
+</pre></body></html>
